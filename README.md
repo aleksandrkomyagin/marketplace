@@ -1,5 +1,6 @@
-<div align=center>
 ## Тестовое задание на позицию Junior Python Разработчик
+
+<div align=center>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Django](https://img.shields.io/badge/Django-4.1-blue)
@@ -60,8 +61,8 @@
 
 </details>
 
-<div align=center>
 ## Контакты
+<div align=center>
 
 [![Telegram Badge](https://img.shields.io/badge/-aleksandrkomyagin8-blue?style=social&logo=telegram&link=https://t.me/aleksandrkomyagin8)](https://t.me/aleksandrkomyagin8) [![Gmail Badge](https://img.shields.io/badge/-aleksandrkomyagin8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aleksandrkomyagin8@gmail.com)](mailto:aleksandrkomyagin8@gmail.com)
 
